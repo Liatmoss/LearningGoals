@@ -20,5 +20,8 @@
 ### Daily Goals:
 #### Tuesday 15th October:
 Goal: Learn more effective debugging methods
+
 Plan: Complete debugging skills workshop and write out my understanding of debugging processes
-Evidence: Document outlining debugging practices
+
+Evidence: [Document](https://docs.google.com/document/d/1_BUusaB5plrP8nhOTQhUeExeIYKjFhnk399EGZ9yaTw/edit?usp=sharing)
+ outlining debugging practices
