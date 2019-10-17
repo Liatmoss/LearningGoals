@@ -21,7 +21,7 @@ Evidence: [Document](https://docs.google.com/document/d/1_BUusaB5plrP8nhOTQhUeEx
 
  Plan: Complete TDD workshop and exercises. Write out understanding
 
- Evidence: [Document] (https://docs.google.com/document/d/1TerMl6us29LU2R3SU-hZQQUXtQbSh6sd5nbnk-wzgYc/edit?usp=sharing) showing TDD method and notes from workshop
+ Evidence: [Document](https://docs.google.com/document/d/1TerMl6us29LU2R3SU-hZQQUXtQbSh6sd5nbnk-wzgYc/edit?usp=sharing) showing TDD method and notes from workshop
 
 
  #### Thursday 17th October:
