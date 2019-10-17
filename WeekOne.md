@@ -17,8 +17,16 @@ Evidence: [Document](https://docs.google.com/document/d/1_BUusaB5plrP8nhOTQhUeEx
 
 
  #### Wednesday 16th October:
- Goal: Gain a better understanding rspec at the equality methodology
+ Goal: Put together a TDD method and use in pairing sessions to write tests for boris-bike program
 
  Plan: Complete TDD workshop and exercises. Write out understanding
+
+ Evidence: [Document] (https://docs.google.com/document/d/1TerMl6us29LU2R3SU-hZQQUXtQbSh6sd5nbnk-wzgYc/edit?usp=sharing) showing TDD method and notes from workshop
+
+
+ #### Thursday 17th October:
+ Goal: Describe some basic OO principles like encapsulation, SRP
+
+ Plan: Complete Encapsulation practical and write definitions for encapsulation and SRP
 
  Evidence:
