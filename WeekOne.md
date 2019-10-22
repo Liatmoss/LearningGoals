@@ -32,7 +32,7 @@ Evidence: [Encapsulation Practical](https://github.com/Liatmoss/Secret-Diary.git
 
 
 #### Friday 18th October:
-Goal: Find out the differences between Context, Describe and It methods within rspec
+Goal: Find out the differences between Context, Describe and It methods within RSpec
 
 Plan: Research the differences between the above methods and record definitions
 

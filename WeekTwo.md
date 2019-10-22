@@ -14,4 +14,12 @@ Goal: Effectively review my partner's code and take on feedback for my code codi
 
 Plan: Learn reviewing practices and write notes on how to improve code written by someone else
 
+Evidence: [Document](https://docs.google.com/document/d/1oc_iNXOSf3RqUrNkYxECcJaSlJPeSURWG9sbxNPxGLQ/edit?usp=sharing) with notes on how to review code written by someone else
+
+
+#### Tuesday 22st October:
+Goal: Explain how you use domain model diagramming in your development process
+
+Plan: Complete the skills workshop and take notes on how to use domain modelling to aid the development process
+
 Evidence:
