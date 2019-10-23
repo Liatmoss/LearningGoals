@@ -22,4 +22,12 @@ Goal: Explain how you use domain model diagramming in your development process
 
 Plan: Complete the skills workshop and take notes on how to use domain modelling to aid the development process
 
-Evidence:
+Evidence: [Document](https://docs.google.com/document/d/1TTTI1INp_weHtZf3aEId7jl2vvwZgB-15I3dhI56iRM/edit?usp=sharing) with suggestions on how to use domain modelling in planning
+
+
+#### Wednesday 23rd October:
+Goal: Break one class into two classes that work together, while maintaining test coverage
+
+Plan: Complete Notebook activity on domain modelling splitting classes
+
+Evidence: 
