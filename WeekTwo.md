@@ -30,4 +30,12 @@ Goal: Break one class into two classes that work together, while maintaining tes
 
 Plan: Complete Notebook activity on domain modelling splitting classes
 
-Evidence: 
+Evidence:
+
+
+#### Thursday 24rd October:
+Goal: Work on pairing more equally with a partner using driver-navigator pairing
+
+Plan: Pair with a partner on a program and write feedback on how to improve pairing when one person is further ahead than the other
+
+Evidence:
