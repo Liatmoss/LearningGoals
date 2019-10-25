@@ -17,7 +17,7 @@ Plan: Learn reviewing practices and write notes on how to improve code written b
 Evidence: [Document](https://docs.google.com/document/d/1oc_iNXOSf3RqUrNkYxECcJaSlJPeSURWG9sbxNPxGLQ/edit?usp=sharing) with notes on how to review code written by someone else
 
 
-#### Tuesday 22st October:
+#### Tuesday 22nd October:
 Goal: Explain how you use domain model diagramming in your development process
 
 Plan: Complete the skills workshop and take notes on how to use domain modelling to aid the development process
@@ -30,7 +30,7 @@ Goal: Break one class into two classes that work together, while maintaining tes
 
 Plan: Complete Notebook activity on domain modelling splitting classes
 
-Evidence:
+Evidence: [Notebook activity on GitHub](https://github.com/Liatmoss/notebook)
 
 
 #### Thursday 24rd October:
