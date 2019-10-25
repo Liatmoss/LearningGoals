@@ -38,4 +38,12 @@ Goal: Work on pairing more equally with a partner using driver-navigator pairing
 
 Plan: Pair with a partner on a program and write feedback on how to improve pairing when one person is further ahead than the other
 
+Evidence: Feedback from today's partner: We worked well together but I need to slow down sometimes and explain my process before testing. I tend to test first and then explain which doesn't always work with the way my partner understands concepts. This is something I plan to work on more next week.
+
+
+#### Friday 25th October:
+Goal: Have a better understanding of mocking and doubles and how they are used within programming
+
+Plan: Read some blogs and write a short paragraph on how mocking and doubles are used.
+
 Evidence:
