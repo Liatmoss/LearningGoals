@@ -13,4 +13,12 @@ Goal: Effectively review my partner's code and take on feedback for my code codi
 
 Plan: Learn reviewing practices and write notes on how to improve code written by someone else
 
+Evidence: See notes on Ali's code. Feedback given and received using techniques from the workshop last week.
+
+
+#### Tuesday 29th October:
+Goal: Gain a better understanding of HTTP
+
+Plan: Look up on what HTTP is and how it works and write notes for future reference
+
 Evidence: 
