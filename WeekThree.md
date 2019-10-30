@@ -17,8 +17,17 @@ Evidence: See notes on Ali's code. Feedback given and received using techniques 
 
 
 #### Tuesday 29th October:
-Goal: Gain a better understanding of HTTP
+Goal: Have a look at Capybara and how to code interaction with buttons and links
 
-Plan: Look up on what HTTP is and how it works and write notes for future reference
+Plan: Do more of the Capybara workout
+
+Evidence: Completed the Capybara workshop as part of the afternoon challenge and started using the features to write spec tests for the Battle website we are creating
+
+
+
+#### Tuesday 29th October:
+Goal: Be able to explain web concepts such as HTTP, HTML, CSS
+
+Plan: Read up on the concepts and write a document explaining what each of them do
 
 Evidence: 
