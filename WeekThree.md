@@ -25,7 +25,7 @@ Evidence: Completed the Capybara workshop as part of the afternoon challenge and
 
 
 
-#### Tuesday 29th October:
+#### Wednesday 30th October:
 Goal: Be able to explain web concepts such as HTTP, HTML, CSS
 
 Plan: Read up on the concepts and write a document explaining what each of them do
