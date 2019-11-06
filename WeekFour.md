@@ -7,7 +7,7 @@
 4. Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
 
 ### Daily Goals:
-#### Monday 5th November:
+#### Monday 4th November:
 Goal: Understand the basics of SQL and how it works
 
 Plan: Learn reviewing practices and write notes on how to improve code written by someone else
@@ -15,9 +15,17 @@ Plan: Learn reviewing practices and write notes on how to improve code written b
 Evidence: [Document](https://docs.google.com/document/d/1tDvKJ5_dEqGD1q6UDubiEG-7JN7MCe2UwWYMGTb1OVc/edit?usp=sharing) outlining how to use SQL and what it's used for
 
 
-#### Tuesday 29th October:
+#### Tuesday 5th November:
 Goal: Gain a better understanding of SQL and how it works
 
-Plan: Complete SQL practical
+Plan: Start SQL practical
 
-Evidence: 
+Evidence:
+
+
+#### Wednesday 6th November:
+Goal: Gain a better understanding of SQL and how it works
+
+Plan: Continue with SQL practical
+
+Evidence:
