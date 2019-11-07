@@ -20,12 +20,16 @@ Goal: Gain a better understanding of SQL and how it works
 
 Plan: Start SQL practical
 
-Evidence:
-
 
 #### Wednesday 6th November:
 Goal: Gain a better understanding of SQL and how it works
 
 Plan: Continue with SQL practical
 
-Evidence:
+
+#### Thursday 7th November:
+Goal: Gain a better understanding of debugging principles and how they are used
+
+Plan: Attend debugging skills workshop
+
+Evidence: 
