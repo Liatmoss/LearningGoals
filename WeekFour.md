@@ -32,4 +32,4 @@ Goal: Gain a better understanding of debugging principles and how they are used
 
 Plan: Attend debugging skills workshop
 
-Evidence: 
+Evidence: [Debugging Emoji Workshop](https://github.com/Liatmoss/debugging_emoji)
