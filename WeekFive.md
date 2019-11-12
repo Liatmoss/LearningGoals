@@ -6,9 +6,9 @@
 3. Follow an effective process for learning a new language
 
 ### Daily Goals:
-#### Monday 11th November:
-Goal:
+#### Tuesday 12th November:
+Goal: Gain a better understanding of JavaScript and the differences between JavaScript and Ruby
 
-Plan:
+Plan: Complete the learning a new language practical
 
-Evidence: 
+Evidence: Notes written from this [document](https://agentcooper.github.io/js-ruby-comparison/)
